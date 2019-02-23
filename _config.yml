@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://Gopsathvik.github.io"
+url: "https://gopsathvik.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -23,11 +23,15 @@ description: Inquisitive about all things Data
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  About Me: "
+  Hello there!,
+I am Data Scientist under training ready to venture into the world of Data.
+My areas of interest include enabling decision making by facts based on data, examine Data and apply statistical methods to build models as part of solutions using Machine Learning techniques.
+I also spend my time to find effective ways to communicate patterns, observations, and anomalies through Data Visualization.
+My goals involve developing interpretable solutions for tedious problems by leveraging my domain expertise in Banking and Insurance Industry.
+Most of the time I try to determine methods and practices to optimize the Data Analysis by testing within constraints of budget, time and time to market
+"
+  
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -71,23 +75,12 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-   rss: true
-   email: "gopsathvik@gmail.com"
-   github: https://github.com/Gopsathvik
-   twitter: gopsathvik
-#  reddit: yourname
-#  google-plus: +DeanAttali
-   linkedin: krishandivel
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+  rss: true
+  email: "gopsathvik@gmail.com"
+  github: https://github.com/Gopsathvik
+  twitter: gopsathvik
+  linkedin: krishandivel
+
 
 # Select which share links to show in posts
 share-links-active:
@@ -130,7 +123,7 @@ share-links-active:
 
 # Staticman support
 staticman:
-  repository : gopsathvik.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
   branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
