@@ -23,7 +23,7 @@ description: Inquisitive about all things Data
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: " "
+  About Me: "aboutme"
   
   
 
