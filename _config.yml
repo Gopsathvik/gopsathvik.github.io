@@ -23,14 +23,7 @@ description: Inquisitive about all things Data
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "
-  Hello there!,
-I am Data Scientist under training ready to venture into the world of Data.
-My areas of interest include enabling decision making by facts based on data, examine Data and apply statistical methods to build models as part of solutions using Machine Learning techniques.
-I also spend my time to find effective ways to communicate patterns, observations, and anomalies through Data Visualization.
-My goals involve developing interpretable solutions for tedious problems by leveraging my domain expertise in Banking and Insurance Industry.
-Most of the time I try to determine methods and practices to optimize the Data Analysis by testing within constraints of budget, time and time to market
-"
+  About Me: " "
   
   
 
@@ -68,7 +61,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Krish Andivel
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -77,7 +70,7 @@ author:
 social-network-links:
   rss: true
   email: "gopsathvik@gmail.com"
-  github: https://github.com/Gopsathvik
+  github: Gopsathvik
   twitter: gopsathvik
   linkedin: krishandivel
 
